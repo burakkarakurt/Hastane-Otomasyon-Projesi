@@ -1,0 +1,114 @@
+C:\Users\tchn\Desktop\C#\Hastane Yönetim ve Randevu\HastaneProje\HastaneProje\bin\Debug\HastaneProje.exe.config
+C:\Users\tchn\Desktop\C#\Hastane Yönetim ve Randevu\HastaneProje\HastaneProje\bin\Debug\HastaneProje.exe
+C:\Users\tchn\Desktop\C#\Hastane Yönetim ve Randevu\HastaneProje\HastaneProje\bin\Debug\HastaneProje.pdb
+C:\Users\tchn\Desktop\C#\Hastane Yönetim ve Randevu\HastaneProje\HastaneProje\obj\Debug\HastaneProje.csprojAssemblyReference.cache
+C:\Users\tchn\Desktop\C#\Hastane Yönetim ve Randevu\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Properties.Resources.resources
+C:\Users\tchn\Desktop\C#\Hastane Yönetim ve Randevu\HastaneProje\HastaneProje\obj\Debug\HastaneProje.csproj.GenerateResource.cache
+C:\Users\tchn\Desktop\C#\Hastane Yönetim ve Randevu\HastaneProje\HastaneProje\obj\Debug\HastaneProje.csproj.CoreCompileInputs.cache
+C:\Users\tchn\Desktop\C#\Hastane Yönetim ve Randevu\HastaneProje\HastaneProje\obj\Debug\HastaneProje.exe
+C:\Users\tchn\Desktop\C#\Hastane Yönetim ve Randevu\HastaneProje\HastaneProje\obj\Debug\HastaneProje.pdb
+C:\Users\tchn\Desktop\C#\Hastane Yönetim ve Randevu\HastaneProje\HastaneProje\obj\Debug\HastaneProje.FrmBilgiGuncelle.resources
+C:\Users\tchn\Desktop\C#\Hastane Yönetim ve Randevu\HastaneProje\HastaneProje\obj\Debug\HastaneProje.FrmBransPaneli.resources
+C:\Users\tchn\Desktop\C#\Hastane Yönetim ve Randevu\HastaneProje\HastaneProje\obj\Debug\HastaneProje.FrmDoktorBilgiDüzenle.resources
+C:\Users\tchn\Desktop\C#\Hastane Yönetim ve Randevu\HastaneProje\HastaneProje\obj\Debug\HastaneProje.FrmDoktorDetay.resources
+C:\Users\tchn\Desktop\C#\Hastane Yönetim ve Randevu\HastaneProje\HastaneProje\obj\Debug\HastaneProje.FrmDoktorGiris.resources
+C:\Users\tchn\Desktop\C#\Hastane Yönetim ve Randevu\HastaneProje\HastaneProje\obj\Debug\HastaneProje.FrmDoktorPaneli.resources
+C:\Users\tchn\Desktop\C#\Hastane Yönetim ve Randevu\HastaneProje\HastaneProje\obj\Debug\HastaneProje.FrmDuyurular.resources
+C:\Users\tchn\Desktop\C#\Hastane Yönetim ve Randevu\HastaneProje\HastaneProje\obj\Debug\HastaneProje.FrmGirisler.resources
+C:\Users\tchn\Desktop\C#\Hastane Yönetim ve Randevu\HastaneProje\HastaneProje\obj\Debug\HastaneProje.FrmHastaDetay.resources
+C:\Users\tchn\Desktop\C#\Hastane Yönetim ve Randevu\HastaneProje\HastaneProje\obj\Debug\HastaneProje.FrmHastaKayıt.resources
+C:\Users\tchn\Desktop\C#\Hastane Yönetim ve Randevu\HastaneProje\HastaneProje\obj\Debug\HastaneProje.FrmRandevuListele.resources
+C:\Users\tchn\Desktop\C#\Hastane Yönetim ve Randevu\HastaneProje\HastaneProje\obj\Debug\HastaneProje.FrmSekreterDetay.resources
+C:\Users\tchn\Desktop\C#\Hastane Yönetim ve Randevu\HastaneProje\HastaneProje\obj\Debug\HastaneProje.FrmSekreterGiriş.resources
+C:\Users\tchn\Desktop\C#\Hastane Yönetim ve Randevu\HastaneProje\HastaneProje\obj\Debug\HastaneProje.FrmHastaGiris.resources
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\HastaneProje.exe.config
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\HastaneProje.exe
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\HastaneProje.pdb
+C:\Users\karak\Desktop\HastaneProje\obj\Debug\HastaneProje.csprojAssemblyReference.cache
+C:\Users\karak\Desktop\HastaneProje\obj\Debug\HastaneProje.FrmBilgiGuncelle.resources
+C:\Users\karak\Desktop\HastaneProje\obj\Debug\HastaneProje.FrmBransPaneli.resources
+C:\Users\karak\Desktop\HastaneProje\obj\Debug\HastaneProje.FrmDoktorBilgiDüzenle.resources
+C:\Users\karak\Desktop\HastaneProje\obj\Debug\HastaneProje.FrmDoktorDetay.resources
+C:\Users\karak\Desktop\HastaneProje\obj\Debug\HastaneProje.FrmDoktorGiris.resources
+C:\Users\karak\Desktop\HastaneProje\obj\Debug\HastaneProje.FrmDoktorPaneli.resources
+C:\Users\karak\Desktop\HastaneProje\obj\Debug\HastaneProje.FrmDuyurular.resources
+C:\Users\karak\Desktop\HastaneProje\obj\Debug\HastaneProje.FrmGirisler.resources
+C:\Users\karak\Desktop\HastaneProje\obj\Debug\HastaneProje.FrmHastaDetay.resources
+C:\Users\karak\Desktop\HastaneProje\obj\Debug\HastaneProje.FrmHastaKayıt.resources
+C:\Users\karak\Desktop\HastaneProje\obj\Debug\HastaneProje.FrmHastaGiris.resources
+C:\Users\karak\Desktop\HastaneProje\obj\Debug\HastaneProje.FrmRandevuListele.resources
+C:\Users\karak\Desktop\HastaneProje\obj\Debug\HastaneProje.FrmSekreterDetay.resources
+C:\Users\karak\Desktop\HastaneProje\obj\Debug\HastaneProje.FrmSekreterGiriş.resources
+C:\Users\karak\Desktop\HastaneProje\obj\Debug\HastaneProje.Properties.Resources.resources
+C:\Users\karak\Desktop\HastaneProje\obj\Debug\HastaneProje.csproj.GenerateResource.cache
+C:\Users\karak\Desktop\HastaneProje\obj\Debug\HastaneProje.csproj.CoreCompileInputs.cache
+C:\Users\karak\Desktop\HastaneProje\obj\Debug\HastaneProje.exe
+C:\Users\karak\Desktop\HastaneProje\obj\Debug\HastaneProje.pdb
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.Licensing.dll
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Guna.UI2.dll
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\karak\Desktop\HastaneProje\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\karak\Desktop\HastaneProje\obj\Debug\HastaneProje.csproj.CopyComplete
